@@ -2,6 +2,7 @@ import {defineConfig} from 'vitepress'
 import { set_sidebar } from "../docs/utils/auto-gen-sidebar.mjs";
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base: '/hfl-blog/',
     title: "方雷技术站",
     description: "A VitePress Site",
     head: [["link", { rel: "icon", href: "/docs/public/logo.png" }]],
