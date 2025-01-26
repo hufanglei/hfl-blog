@@ -6,6 +6,7 @@ export default defineConfig({
     title: "方雷技术站",
     description: "A VitePress Site",
     head: [["link", { rel: "icon", href: "/logo.png" }]],
+    lastUpdated: true,
 
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
