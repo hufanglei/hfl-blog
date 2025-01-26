@@ -5,7 +5,7 @@ export default defineConfig({
     base: '/hfl-blog/',
     title: "方雷技术站",
     description: "A VitePress Site",
-    head: [["link", { rel: "icon", href: "/docs/public/logo.png" }]],
+    head: [["link", { rel: "icon", href: "/logo.png" }]],
 
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
