@@ -8,7 +8,7 @@ hero:
   #tagline: 在代码里找到真理，在思绪中探寻广阔人生
   tagline: 在bug中浮沉，在积累中质变
   image:
-    src: /docs/public/background.png
+    src: /background.png
     alt: 背景图
   actions:
     - theme: brand
