@@ -12,18 +12,18 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: 第1个示例
-      link: https://www.jd.com
+      text: 网站简介
+      link: /docs/posts/intro
     - theme: alt
-      text: 第2个示例
-      link: /docs/posts/api-examples
+      text: 日常技术文档
+      link: https://hufanglei.github.io/categories/
 
 features:
-  - title: 特性1
-    details: 特征1的详细描述
-  - title: 特性2
-    details: 特征2的详细描述
-  - title: 特性3
-    details: 特征3的详细描述
+  - title: 热门实战项目1
+    details: 1的详细描述
+  - title: 热门实战项目2
+    details: 2的详细描述
+  - title: 热门实战项目3
+    details: 3的详细描述
 ---
 
